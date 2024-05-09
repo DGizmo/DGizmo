@@ -1,4 +1,4 @@
-# Emiliano Arellano, hi there 👋
+# Emiliano Arellano, Hi there!
 
 **`Data Analyst/Scientist`**
 
