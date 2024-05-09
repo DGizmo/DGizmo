@@ -1,4 +1,6 @@
-### Hi there 👋
+# Emiliano Arellano, hi there 👋
+
+**`Data Analyst/Scientist`**
 
 <!--
 **DGizmo/DGizmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
